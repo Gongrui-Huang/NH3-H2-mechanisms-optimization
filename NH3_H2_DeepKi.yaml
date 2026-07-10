@@ -3,7 +3,7 @@ description: |-
     or use (in part or whole) in any commercial software is strictly forbidden without the written consent of the authors.
     
     This mechanism is the optimization version (DeepKi mechanism) from the paper,
-        Optimizing Kinetic Mechanism Through Deep Reinforcement Learning with Extensive Experimental data
+        Optimizing Kinetic Mechanism Through Deep Reinforcement Learning
         Methodology and Application to NH3/H2 Fuels
     
     The optimized reactions marked in the note of each reaction.
