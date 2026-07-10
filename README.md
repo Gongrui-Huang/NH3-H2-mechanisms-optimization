@@ -1,4 +1,4 @@
-# NH3-H2-combution-kinetic-mechanisms
+# NH3-H2-mechanisms-and-exprimental-data
 
 This repository includs:
 1. Reliable detailed NH3/H2 mechanisms in YAML or Chemkin formats
